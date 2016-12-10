@@ -1,0 +1,5 @@
+<resources>
+    <string name="accessibility_des">Press the switch on the upper right corner and select "OK". After switching this on, pressing on the text in supported messaging applications (e.g. QQ, WeChat, Messaging) will automatically launch the BigBang interface.</string>
+    <string name="search">Search</string>
+    <string name="no_result">No data</string>
+</resources>
